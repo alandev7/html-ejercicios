@@ -1,0 +1,18 @@
+.boton1::before{
+content: 'pasa por encima';
+}
+
+.boton1::after{
+    content: ''
+}
+
+
+.boton1:hover{
+    background-color: green
+}
+
+.boton1:hover{
+    color: white
+}
+
+
