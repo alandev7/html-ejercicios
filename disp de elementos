@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Disposición de elementos en CSS</title>
+        <link rel="stylesheet" href="flex.css">
+    
+    </head>
+    <body> 
+        
+        <img class="imagen1" src="https://images.pexels.com/photos/5698363/pexels-photo-5698363.jpeg?auto=compress&cs=tinysrgb&w=600" alt="pexels-video-games">/
+    
+        <img class="imagen2" src="https://images.pexels.com/photos/4148890/pexels-photo-4148890.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="pexels2">/
+              
+        <img class="imagen3" src="https://images.pexels.com/photos/4148890/pexels-photo-4148890.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="pexels2">/
+       
+        <img class="imagen4" src="https://images.pexels.com/photos/4148890/pexels-photo-4148890.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="pexels2">/
+        
+        <img class="imagen5" src="https://images.pexels.com/photos/4148890/pexels-photo-4148890.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="pexels2">/
+        
+        <img class="imagen6" src="https://images.pexels.com/photos/4148890/pexels-photo-4148890.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="pexels2">/
+
+       
+    </body>
+
+    </html>
