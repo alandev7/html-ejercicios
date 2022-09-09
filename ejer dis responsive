@@ -1,0 +1,30 @@
+.flex-container{
+   
+    gap: 0,9rem;
+
+        
+}
+
+
+.item {
+    background-color:blueviolet;
+    background-size: 0,4px;
+width: 35px;
+margin:5px;
+}
+
+.item4{
+background-color: aqua;
+float:right;
+
+}
+
+@media (min-width: 640px){
+
+.item{
+    float:inline-end
+
+}
+
+
+}
