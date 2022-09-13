@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<head><title>Sistema grid de Bootstrap</title>
+    <link rel="stylesheet" href="formularios.css">
+
+    <link="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+
+</head>
+    
+
+<body>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
+
+    <div class="flex-container">
+        <div class = "row">
+
+        
+        <div class="col-sm">sm</div>
+        <div class="item item2">sm</div>
+        
+
+    </div>
+
+    <div>
+
+        
+        <div class="item item1">md</div>
+        <div class="item item2">md</div>
+        <div class="item item3">md</div>
+       
+    </div>
+
+    <div class = "row">
+
+        
+        <div class="item item1">lg</div>
+        <div class="item item2">lg</div>
+        <div class="item item3">lg</div>
+        <div class="item item5">lg</div>
+        
+    </row>
+
+    <div class = "row">
+
+        
+        <div class="item item1">xl</div>
+        <div class="item item2">xl</div>
+        <div class="item item3">xl</div>
+        <div class="item item5">xl</div>
+        <div class="item item6">xl</div>
+        <div class="item item7">xl</div>
+
+    </row>
+
+    </div>
+
+</body>
+
+
+</html>
